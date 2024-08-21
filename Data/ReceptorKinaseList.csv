@@ -1,0 +1,71 @@
+﻿HGNC ID (gene),Approved symbol,Approved name,Previous symbols,Aliases,Chromosome,Group
+HGNC:3385,EPHA1,EPH receptor A1,"EPHT,EPHT1",EPH,7q34-q35,EPH receptors
+HGNC:3386,EPHA2,EPH receptor A2,ECK,,1p36.13,EPH receptors
+HGNC:3387,EPHA3,EPH receptor A3,"ETK,ETK1,TYRO4","HEK,HEK4",3p11.1,EPH receptors
+HGNC:3388,EPHA4,EPH receptor A4,TYRO1,Hek8,2q36.1,EPH receptors
+HGNC:3389,EPHA5,EPH receptor A5,,"Hek7,TYRO4,CEK7,EHK1",4q13.1-q13.2,EPH receptors
+HGNC:19296,EPHA6,EPH receptor A6,,FLJ35246,3q11.2,EPH receptors
+HGNC:3390,EPHA7,EPH receptor A7,,Hek11,6q16.1,EPH receptors
+HGNC:3391,EPHA8,EPH receptor A8,EEK,Hek3,1p36.12,EPH receptors
+HGNC:19987,EPHA10,EPH receptor A10,,"FLJ16103,FLJ33655",1p34.3,EPH receptors
+HGNC:3392,EPHB1,EPH receptor B1,EPHT2,Hek6,3q22.2,EPH receptors
+HGNC:3393,EPHB2,EPH receptor B2,"DRT,ERK,EPHT3","Hek5,Tyro5",1p36.12,EPH receptors
+HGNC:3394,EPHB3,EPH receptor B3,ETK2,"Hek2,Tyro6",3q27.1,EPH receptors
+HGNC:3395,EPHB4,EPH receptor B4,HTK,Tyro11,7q22.1,EPH receptors
+HGNC:3396,EPHB6,EPH receptor B6,,HEP,7q34,EPH receptors
+HGNC:3236,EGFR,epidermal growth factor receptor,ERBB,"ERBB1,ERRP",7p11.2,Erb-b2 receptor tyrosine kinases
+HGNC:3430,ERBB2,erb-b2 receptor tyrosine kinase 2,NGL,"NEU,HER-2,CD340,HER2,c-ERB2,c-ERB-2,MLN-19,p185(erbB2)",17q12,Erb-b2 receptor tyrosine kinases
+HGNC:3431,ERBB3,erb-b2 receptor tyrosine kinase 3,LCCS2,HER3,12q13.2,Erb-b2 receptor tyrosine kinases
+HGNC:3432,ERBB4,erb-b2 receptor tyrosine kinase 4,,"ALS19,HER4",2q34,Erb-b2 receptor tyrosine kinases
+HGNC:21,AATK,apoptosis associated tyrosine kinase,,"AATYK,KIAA0641,LMTK1,LMR1,AATYK1,PPP1R77",17q25.3,Receptor tyrosine kinases
+HGNC:427,ALK,ALK receptor tyrosine kinase,,"CD246,ALK1",2p23.2-p23.1,Receptor tyrosine kinases
+HGNC:905,AXL,AXL receptor tyrosine kinase,,"UFO,JTK11,Tyro7,ARK",19q13.2,Receptor tyrosine kinases
+HGNC:2433,CSF1R,colony stimulating factor 1 receptor,FMS,"C-FMS,CSFR,CD115",5q32,Receptor tyrosine kinases
+HGNC:2730,DDR1,discoidin domain receptor tyrosine kinase 1,"NTRK4,PTK3A,NEP,CAK,EDDR1","RTK6,CD167",6p21.33,Receptor tyrosine kinases
+HGNC:2731,DDR2,discoidin domain receptor tyrosine kinase 2,"TYRO10,NTRKR3",TKT,1q23.3,Receptor tyrosine kinases
+HGNC:3688,FGFR1,fibroblast growth factor receptor 1,"FLT2,KAL2","H2,H3,H4,H5,CEK,FLG,BFGFR,N-SAM,CD331",8p11.23,Receptor tyrosine kinases
+HGNC:3689,FGFR2,fibroblast growth factor receptor 2,"KGFR,BEK,CFD1,JWS","CEK3,TK14,TK25,ECT1,K-SAM,CD332",10q26.13,Receptor tyrosine kinases
+HGNC:3690,FGFR3,fibroblast growth factor receptor 3,ACH,"CEK2,JTK4,CD333",4p16.3,Receptor tyrosine kinases
+HGNC:3691,FGFR4,fibroblast growth factor receptor 4,,"JTK2,CD334,TKF",5q35.2,Receptor tyrosine kinases
+HGNC:3763,FLT1,fms related receptor tyrosine kinase 1,FLT,VEGFR1,13q12.3,Receptor tyrosine kinases
+HGNC:3765,FLT3,fms related receptor tyrosine kinase 3,,"STK1,FLK2,CD135",13q12.2,Receptor tyrosine kinases
+HGNC:3767,FLT4,fms related receptor tyrosine kinase 4,,"VEGFR3,PCL,VEGFR-3",5q35.3,Receptor tyrosine kinases
+HGNC:5465,IGF1R,insulin like growth factor 1 receptor,,"JTK13,CD221,IGFIR,MGC18216,IGFR",15q26.3,Receptor tyrosine kinases
+HGNC:6091,INSR,insulin receptor,,CD220,19p13.2,Receptor tyrosine kinases
+HGNC:6093,INSRR,insulin receptor related receptor,,IRR,1q23.1,Receptor tyrosine kinases
+HGNC:6307,KDR,kinase insert domain receptor,,"FLK1,VEGFR,VEGFR2,CD309",4q12,Receptor tyrosine kinases
+HGNC:6342,KIT,"KIT proto-oncogene, receptor tyrosine kinase",PBT,"CD117,SCFR,C-Kit",4q12,Receptor tyrosine kinases
+HGNC:17880,LMTK2,lemur tyrosine kinase 2,,"KIAA1079,KPI2,KPI-2,cprk,LMR2,BREK,AATYK2,PPP1R100",7q21.3,Receptor tyrosine kinases
+HGNC:19295,LMTK3,lemur tyrosine kinase 3,,"KIAA1883,LMR3,TYKLM3,PPP1R101",19q13.33,Receptor tyrosine kinases
+HGNC:6721,LTK,leukocyte receptor tyrosine kinase,,TYK1,15q15.1,Receptor tyrosine kinases
+HGNC:7027,MERTK,"MER proto-oncogene, tyrosine kinase",,"mer,RP38,c-Eyk,Tyro12",2q13,Receptor tyrosine kinases
+HGNC:7029,MET,"MET proto-oncogene, receptor tyrosine kinase",,"HGFR,RCCP2,DFNB97",7q31.2,Receptor tyrosine kinases
+HGNC:7381,MST1R,macrophage stimulating 1 receptor,"RON,PTK8,SEA","CDw136,CD136",3p21.31,Receptor tyrosine kinases
+HGNC:7525,MUSK,muscle associated receptor tyrosine kinase,,,9q31.3,Receptor tyrosine kinases
+HGNC:8031,NTRK1,neurotrophic receptor tyrosine kinase 1,,"TRK,TRKA,MTC",1q23.1,Receptor tyrosine kinases
+HGNC:8032,NTRK2,neurotrophic receptor tyrosine kinase 2,,TRKB,9q21.33,Receptor tyrosine kinases
+HGNC:8033,NTRK3,neurotrophic receptor tyrosine kinase 3,,TRKC,15q25.3,Receptor tyrosine kinases
+HGNC:8803,PDGFRA,platelet derived growth factor receptor alpha,,"CD140a,PDGFR2,GAS9",4q12,Receptor tyrosine kinases
+HGNC:8804,PDGFRB,platelet derived growth factor receptor beta,PDGFR,"JTK12,CD140b,PDGFR1",5q32,Receptor tyrosine kinases
+HGNC:9618,PTK7,protein tyrosine kinase 7 (inactive),,CCK4,6p21.1,Receptor tyrosine kinases
+HGNC:9967,RET,ret proto-oncogene,"HSCR1,MEN2A,MTC1,MEN2B","PTC,CDHF12,RET51,CDHR16",10q11.21,Receptor tyrosine kinases
+HGNC:10256,ROR1,receptor tyrosine kinase like orphan receptor 1,NTRKR1,,1p31.3,Receptor tyrosine kinases
+HGNC:10257,ROR2,receptor tyrosine kinase like orphan receptor 2,"NTRKR2,BDB,BDB1",,9q22.31,Receptor tyrosine kinases
+HGNC:10261,ROS1,"ROS proto-oncogene 1, receptor tyrosine kinase",,"MCF3,ROS,c-ros-1",6q22.1,Receptor tyrosine kinases
+HGNC:10481,RYK,receptor like tyrosine kinase,JTK5A,"D3S3195,RYK1,JTK5",3q22.2,Receptor tyrosine kinases
+HGNC:18889,STYK1,serine/threonine/tyrosine kinase 1,,"SuRTK106,DKFZp761P1010,NOK",12p13.2,Receptor tyrosine kinases
+HGNC:11724,TEK,TEK receptor tyrosine kinase,VMCM,"TIE2,TIE-2,VMCM1,CD202b",9p21.2,Receptor tyrosine kinases
+HGNC:11809,TIE1,tyrosine kinase with immunoglobulin like and EGF like domains 1,TIE,JTK14,1p34.2,Receptor tyrosine kinases
+HGNC:12446,TYRO3,TYRO3 protein tyrosine kinase,RSE,"Dtk,Brt,Tif,Sky,Etk-2,Rek",15q15.1,Receptor tyrosine kinases
+HGNC:175,ACVRL1,activin A receptor like type 1,"ACVRLK1,ORW2","HHT2,ALK1,HHT",12q13.13,Type 1 receptor serine/threonine kinases
+HGNC:171,ACVR1,activin A receptor type 1,ACVRLK2,"SKR1,ALK2,ACVR1A",2q24.1,Type 1 receptor serine/threonine kinases
+HGNC:172,ACVR1B,activin A receptor type 1B,ACVRLK4,"ALK4,SKR2,ActRIB",12q13.13,Type 1 receptor serine/threonine kinases
+HGNC:18123,ACVR1C,activin A receptor type 1C,,"ALK7,ACVRLK7",2q24.1,Type 1 receptor serine/threonine kinases
+HGNC:1076,BMPR1A,bone morphogenetic protein receptor type 1A,ACVRLK3,"ALK3,CD292",10q23.2,Type 1 receptor serine/threonine kinases
+HGNC:1077,BMPR1B,bone morphogenetic protein receptor type 1B,,"ALK6,CDw293",4q22.3,Type 1 receptor serine/threonine kinases
+HGNC:11772,TGFBR1,transforming growth factor beta receptor 1,"MSSE,ESS1","ALK-5,ACVRLK4,ALK5,TBRI,TBR-i",9q22.33,Type 1 receptor serine/threonine kinases
+HGNC:173,ACVR2A,activin A receptor type 2A,ACVR2,ACTRII,2q22.3-q23.1,Type 2 receptor serine/threonine kinases
+HGNC:174,ACVR2B,activin A receptor type 2B,,ActR-IIB,3p22.2,Type 2 receptor serine/threonine kinases
+HGNC:465,AMHR2,anti-Mullerian hormone receptor type 2,,"MISR2,MISRII",12q13.13,Type 2 receptor serine/threonine kinases
+HGNC:1078,BMPR2,bone morphogenetic protein receptor type 2,PPH1,"BRK-3,T-ALK,BMPR3,BMPR-II",2q33.1-q33.2,Type 2 receptor serine/threonine kinases
+HGNC:11773,TGFBR2,transforming growth factor beta receptor 2,MFS2,"TBRII,TBR-ii",3p24.1,Type 2 receptor serine/threonine kinases

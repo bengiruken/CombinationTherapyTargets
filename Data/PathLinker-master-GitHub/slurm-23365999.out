@@ -1,0 +1,9 @@
+2024-03-31 10:54:28,048 [ERROR] Error fetching enrichment results: KEGG_2019_Human
+2024-03-31 10:54:28,073 [ERROR] Error fetching enrichment results: KEGG_2019_Human
+('path', 'path')
+('CARD11', 'SOX9')
+These couples gives error_ number: 2
+Traceback (most recent call last):
+  File "EnrichR_Shortest_Path_Biowulf.py", line 87, in <module>
+    with open("ENRICHR_GeneSetEnrichmentAnalysis_{}_{}/KEGG_2019_Human.human.enrichr.reports.txt".format(gene1,gene2)) as infile:
+FileNotFoundError: [Errno 2] No such file or directory: 'ENRICHR_GeneSetEnrichmentAnalysis_CARD11_SOX9/KEGG_2019_Human.human.enrichr.reports.txt'
