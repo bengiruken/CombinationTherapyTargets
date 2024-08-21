@@ -1,3 +1,0 @@
-#Nodename	Teleportation Probability
-S1	1.0
-S2	1.0

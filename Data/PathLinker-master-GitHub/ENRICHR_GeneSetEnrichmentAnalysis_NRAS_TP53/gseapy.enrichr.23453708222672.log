@@ -1,5 +1,0 @@
-2024-03-31 10:48:38,452 enrichr23453708222672::[INFO    ] Run: KEGG_2019_Human 
-2024-03-31 10:48:38,453 enrichr23453708222672::[DEBUG   ] Enrichr service using library: KEGG_2019_Human
-2024-03-31 10:48:38,776 enrichr23453708222672::[INFO    ] Save enrichment results for KEGG_2019_Human 
-2024-03-31 10:48:39,200 enrichr23453708222672::[DEBUG   ] Generate figures
-2024-03-31 10:48:39,201 enrichr23453708222672::[INFO    ] Done.

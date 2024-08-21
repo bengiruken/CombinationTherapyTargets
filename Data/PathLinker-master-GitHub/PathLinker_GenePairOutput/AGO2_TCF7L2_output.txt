@@ -1,7 +1,0 @@
-
-Reading the network from PathLinkerGithubPPI.txt
-
-Computing k = 200 shortest paths
-
-Writing results to paths.txt
-

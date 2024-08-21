@@ -1,4 +1,0 @@
-
-Reading the network from PathLinkerGithubPPI.txt
-
-ERROr: SOURCE and TARGET must both be nodes in the network
