@@ -9,7 +9,8 @@ Created on Sat Aug 10 21:52:33 2024
 # main.py
 
 import sys
-sys.path.append('/Users/yavuzb2/Library/CloudStorage/OneDrive-NationalInstitutesofHealth/CombinationTherapyTargets')
+#Replace PATH with the path of the folder CombinationTherapyTargets
+sys.path.append('PATH/CombinationTherapyTargets')
 
 # main.py
 
