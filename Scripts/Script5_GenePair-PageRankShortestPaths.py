@@ -1,8 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-#FILE NAME: AllGenePairs_PageRank_CentralityMeasures_SupplementaryFilePreparation.py
-
-
 
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
@@ -461,7 +456,7 @@ def SelectTargetsWithBetweennessCentrality(gene_pair,PATH = 'GenePairSpecificSub
     
     # Calculate centrality measures
     centrality_measures = calculate_centrality_measures(subnetwork)
-    # Example usage
+    
     my_dict = centrality_measures['betweenness_centrality']
 
     q3 = calculate_Q3(my_dict)
@@ -483,70 +478,6 @@ for pair in Merged_GenePairDict_OneTwo_MoreThanTwoPathways.keys():
    
 #######################   
 
-#convert this to function below
-    
-GenePairsTwo  = [pair[0]+"|"+pair[1] for pair in GenePairDict_TwoPathways.keys()]
-GenePairsThree  = [pair[0]+"|"+pair[1] for pair in GenePairDict_MorethanTwoPathways.keys()]
-GenePairsOne  = [pair[0]+"|"+pair[1] for pair in GenePairDict_OnePathways.keys()]
-
-DoubletComponentsTwo = set()
-for double in GenePairDict_TwoPathways.keys():
-    DoubletComponentsTwo.add(double[0])
-    DoubletComponentsTwo.add(double[1])
-    
-DoubletComponentsThree = set()
-for double in GenePairDict_TwoPathways.keys():
-    DoubletComponentsThree.add(double[0])
-    DoubletComponentsThree.add(double[1])
-DoubletComponentsOne = set()
-for double in GenePairDict_OnePathways.keys():
-    DoubletComponentsOne.add(double[0])
-    DoubletComponentsOne.add(double[1])
-        
-###########
-#############################
-
-# Step 1: Read data from a text file into a pandas DataFrame
-filename = 'Data/GenePair_DrugTargetsFromBetweennessCentrality_IQR_GreaterThan_Q3.txt'#
-
-
-# Step 1: Read data from a text file into a pandas DataFrame
-
-# Assuming your data file is tab-separated with columns GeneA, GeneB, Interactions
-df1 = pd.read_csv(filename, sep='\t', header=None, names=['GeneA', 'GeneB', 'Interactions'])
-
-# Step 2: Merge GeneA and GeneB into a single 'GenePair' column
-df1['GenePair'] = df1['GeneA'] + '|' + df1['GeneB']
-
-df2_Two = df1[df1['GenePair'].isin(GenePairsTwo)]
-df2_Three = df1[df1['GenePair'].isin(GenePairsThree)]
-df2_One = df1[df1['GenePair'].isin(GenePairsOne)]
-
-
-# Drop columns with all 0 values and columns where the sum is less than 5
-
-# Step 3: Create a set of all unique interactions
-#175 drug target genes
-interactionsTwo = set()
-for interaction_list in df2_Two['Interactions']:
-    interactionsTwo.update(interaction_list.split('+'))
-interactionsTwo = interactionsTwo.union(DoubletComponentsTwo)
-
-#175 drug target genes
-interactionsThree = set()
-for interaction_list in df2_Three['Interactions']:
-    interactionsThree.update(interaction_list.split('+'))
-interactionsThree = interactionsThree.union(DoubletComponentsThree)
-
-#175 drug target genes
-interactionsOne = set()
-for interaction_list in df2_One['Interactions']:
-    interactionsOne.update(interaction_list.split('+'))
-interactionsOne = interactionsOne.union(DoubletComponentsOne)
-
-intersection_of_all_connector_nodes = interactionsTwo.intersection(interactionsThree,interactionsOne)  
-   
-###update function
 
 import pandas as pd
 
