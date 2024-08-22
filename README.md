@@ -70,10 +70,4 @@ There are two folders having scripts and data filesnamed as **"Scripts"** and **
 
 CombinationTherapyTargets file should be downloaded and main.py module needs to be compiled. 
 
-___
-### Contact
-
-Please inform us about the problems and also your suggestions in [here](bengi.yavuz@nih.gov). 
-___
-
 
