@@ -9,7 +9,7 @@ Created on Thu Aug  1 14:32:16 2024
 'AfterBiowulf_EnrichR_Result_Processing.py'
 
 #import functions for data curation
-from Scripts import FunctionsForDataCuration_1  as DC
+from Scripts import Script1_FunctionsForDataCuration  as DC
 
 list_of_all_gene_pairs = DC.ListOfGenePairsWithCoexisitngMutations()
 
@@ -50,7 +50,7 @@ def get_cooccurring_gene_couples(file_path='Data', file_name="All_Different_Gene
     return cooccurring_gene_couples
 
 if __name__ == "__main__":
-    # Example usage of the function
+    
     gene_couples = get_cooccurring_gene_couples()
     print(f"Co-occurring gene couples: {gene_couples}")
 
@@ -149,9 +149,9 @@ def write_signaling_pathways_to_file( output_path='Data'):
                                    
 
 
-if __name__ == "__main__":
-    gene_pair_pathways = process_enrichr_results()
-    write_signaling_pathways_to_file()
+#if __name__ == "__main__":
+  #  gene_pair_pathways = process_enrichr_results()
+  #  write_signaling_pathways_to_file()
 
 
 
