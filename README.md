@@ -4,9 +4,8 @@ CombinationTherapyTargets is an innovative network-based approach designed to id
 
 To temper the expected resistance to single drug regimen, we offer a concept-based stratified pipeline aimed at selecting co-targets for drug combinations. Our strategy is unique in its co-target selection being based on signaling pathways. This is significant since in cancer, drug resistance commonly bypasses blocked proteins by wielding alternative, or complementary, routes to execute cell proliferation. Our network-informed signaling-based approach harnesses advanced network concepts and metrics, and our compiled tissue-specific co-existing mutations. Co-existing driver mutations are common in resistance. Thus, to mimic cancer and counter drug resistance scenarios, our pipeline seeks co-targets that when targeted by drug combinations, can shut off cancer’s modus operandi. That is, its parallel or complementary signaling pathways would be blocked. Rotating through combinations could further lessen emerging resistance. 
 
-https://github.com/bengiruken/CombinationTherapyTargets/raw/main/Figure1.png
+![Figure 1. The schematic of the pipeline. This tool aims to identify critical genes that facilitate communication between gene pairs harboring co-existing mutations to discover optimum targets for combination therapies.](https://github.com/bengiruken/CombinationTherapyTargets/raw/main/Figure1.png)
 
-[Figure 1. The schematic of the pipeline. This tool aims to identify critical genes that facilitate communication between gene pairs harboring co-existing mutations to discover optimum targets for combination therapies.]
 
 ## Installation
 
