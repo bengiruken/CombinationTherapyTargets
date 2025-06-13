@@ -7,6 +7,7 @@ To temper the expected resistance to single drug regimen, we offer a concept-bas
 Figure 1 shows the schematic of our pipeline:
 
 ![Figure 1](https://github.com/bengiruken/CombinationTherapyTargets/raw/main/Figure1.png)
+![FIGURE~1](https://github.com/user-attachments/assets/e83b183a-419b-433e-bcdc-c09fc89c418c)
 
 
 ## Installation
