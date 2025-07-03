@@ -10,6 +10,9 @@ Figure 1 shows the schematic of our rationale:
 
 ![FIGURE~1](https://github.com/user-attachments/assets/e83b183a-419b-433e-bcdc-c09fc89c418c)
 
+Schematic of our pipeline:
+
+![FIGURE~3](https://github.com/user-attachments/assets/2ab53205-5512-4552-8d59-e574c74bc34a)
 
 ## Installation
 
